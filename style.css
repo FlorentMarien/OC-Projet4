@@ -824,6 +824,7 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.bmp");
 }
+/*modif*/
 .h2--marge{
     
     margin: auto;
@@ -831,6 +832,13 @@ h4 {
 }
 .span--color{
     color:#797979;
+}
+.keywords-white{
+    color:#cccccc;
+    font-size:1px;
+}
+.keywords-orange{
+    color:#F3976C;
 }
 @media (max-width: 1024px) {
     .bloc {
