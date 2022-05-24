@@ -838,6 +838,7 @@ h4 {
 .keywords-orange{
     color:#F3976C;
 }
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
@@ -880,7 +881,7 @@ h4 {
     .b-parallax {
         background-attachment: scroll;
     }
-    .page-container,
+    header,footer,main,
     #hero-bloc {
         overflow-x: hidden;
         position: relative;
@@ -903,7 +904,7 @@ h4 {
 }
 
 @media (max-width: 767px) {
-    .page-container {
+    header,footer,main {
         overflow-x: hidden;
         position: relative;
     }
