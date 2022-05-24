@@ -699,7 +699,7 @@ p {
     font-weight: 700;
 }
 
-.social {
+.socialfacebook,.socialtwitter,.socialsport, .socialinsta{
     max-width: 400px;
     margin: auto auto auto auto;
 }
@@ -829,9 +829,6 @@ h4 {
     
     margin: auto;
     line-height: 1.1em;
-}
-.span--color{
-    
 }
 .keywords-white{
     color:#cccccc;
