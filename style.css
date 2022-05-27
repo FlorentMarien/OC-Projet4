@@ -699,11 +699,14 @@ p {
     font-weight: 700;
 }
 
-.socialfacebook,.socialtwitter,.socialsport, .socialinsta{
+.social{
     max-width: 400px;
     margin: auto auto auto auto;
-}
 
+}
+.social p{
+    display: none;
+}
 h2 {
     font-size: 22px;
     line-height: 1.4em;
